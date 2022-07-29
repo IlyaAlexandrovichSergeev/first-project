@@ -6,5 +6,5 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 100px;
+  gap: 0 100px;
 }
